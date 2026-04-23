@@ -24,7 +24,7 @@ const Chat = () => {
 
     if (!inline && match) {
       return (
-        <div className="code-block">
+        <div className="code--block">
           <button className="copy-btn" onClick={copyCode}>
             Copy
           </button>

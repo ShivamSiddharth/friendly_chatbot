@@ -172,7 +172,7 @@ body {
 }
 
 /* Code block */
-.code-block {
+.code--block {
   position: relative;
   margin-top: 10px;
 }
